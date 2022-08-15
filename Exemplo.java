@@ -1,11 +1,11 @@
 class Exemplo {
-	private String nome;
+	private String apelido;
 
     public void Exemplo () {
 
     }
 
-    public void setNome() {
-        
+    public void setApelido() {
+
     }
 }
